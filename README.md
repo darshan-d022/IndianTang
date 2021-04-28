@@ -4,6 +4,6 @@ I have used JSON format to ingest data to the chat bot. The file chat_bot iterat
 This data is then fed to a neural network consisting of 5 layers. 
 The model is saved.
 I have written various functions to call the zomato API.
-The file bot.py loads the model and gives response to users query.
+The file bot.py loads the model and gives response to the user's queries.
 
 
